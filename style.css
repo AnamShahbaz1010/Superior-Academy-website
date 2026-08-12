@@ -1222,6 +1222,13 @@
   cursor: not-allowed;
 }
 
+.registration-form .field-error {
+  color: #B22222;
+  font-size: 13px;
+  line-height: 1.4;
+  min-height: 0;
+}
+
 .required {
   color: #B8860B;
 }
